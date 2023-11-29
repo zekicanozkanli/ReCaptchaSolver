@@ -1,0 +1,1 @@
+Since reCAPTCHAs are embedded into website, script will solve all given website's reCAPTCHAs v2.
